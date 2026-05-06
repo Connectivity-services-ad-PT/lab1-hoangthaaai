@@ -4,11 +4,11 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên:
-- Mã sinh viên:
-- Nhóm:
+- Họ tên: Nguyễn Hoàng Thái
+- Mã sinh viên:1771020617
+- Nhóm: 1B
 - Vai trò dự kiến trong nhóm:
-- Hệ điều hành:
+- Hệ điều hành: Window
 - Ghi chú:
 
 ## Các file minh chứng nên có
