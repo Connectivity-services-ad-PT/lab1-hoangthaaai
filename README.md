@@ -234,7 +234,7 @@ evidence/buoi-01/
 | `git-log.txt` | Lịch sử commit gần nhất |
 | `checklist.md` | Checklist tự xác nhận của sinh viên |
 | `known-issues.md` | Lỗi còn tồn tại, nếu có |
-| `service-boundary.md` | Mô tả Actor, Boundary, Service, Input/Output, API dự kiến và phụ thuộc với service khác của nhóm |
+| `service-boundary.md` | Mô tả Actor, Boundary, Service, Input/Output và phụ thuộc với service khác của nhóm |
 
 ---
 
